@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pkv-games.dosbox-x.com/sitemap.xml
